@@ -1,0 +1,3 @@
+Invalid configuration.
+Usage: ./sim -t <trace_file> [-v] [-S <S>] [-B <B>] [-A <A>] [-L <L>]
+

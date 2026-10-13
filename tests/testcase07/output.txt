@@ -1,0 +1,18 @@
+* Cache Statistics *
+memory total accesses: 5
+memory read accesses: 5
+memory write accesses: 0
+L1 total accesses: 5
+L1 hits: 0
+L1 misses: 5
+L1 total reads: 4
+L1 read hits: 0
+L1 total writes: 1
+L1 write hits: 0
+L2 total accesses: 6
+L2 hits: 1
+L2 misses: 5
+L2 total reads: 5
+L2 read hits: 0
+L2 total writes: 1
+L2 write hits: 1

@@ -1,0 +1,16 @@
+# Ignore all
+*
+
+# Unignore all with extensions
+!*.*
+
+# Unignore all dirs
+!*/
+
+# Unignore makefiles
+!Makefile
+
+# Ignore all object files
+*.o
+.vscode
+.DS_Store
